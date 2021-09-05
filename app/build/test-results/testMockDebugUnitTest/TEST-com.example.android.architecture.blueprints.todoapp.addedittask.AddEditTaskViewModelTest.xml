@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-09-05T03:17:18" hostname="Ishas-MacBook-Pro.local" time="0.177">
+  <properties/>
+  <testcase name="loadTasks_loading" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.159"/>
+  <testcase name="saveNewTaskToRepository_nullDescriptionNullTitle_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.001"/>
+  <testcase name="saveNewTaskToRepository_nullTitle_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.001"/>
+  <testcase name="loadTasks_taskShown" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.01"/>
+  <testcase name="saveNewTaskToRepository_showsSuccessMessageUi" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.001"/>
+  <testcase name="saveNewTaskToRepository_emptyDescriptionEmptyTitle_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.0"/>
+  <testcase name="saveNewTaskToRepository_nullDescription_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.0"/>
+  <testcase name="saveNewTaskToRepository_emptyDescription_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.002"/>
+  <testcase name="saveNewTaskToRepository_emptyTitle_error" classname="com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
